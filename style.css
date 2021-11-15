@@ -1,0 +1,25 @@
+p {
+  background-color: #808080;
+  border-style: solid;
+  border-width: thin;
+}
+
+.paragraf1 {
+  background-color: #C96E00;
+}
+
+.paragraf2 {
+  background-color: blue;
+  color: white;
+}
+
+.paragraf3 {
+  font-family: monospace;
+  background-color: white;
+  font-size: 20px;
+}
+
+.paragraf4 {
+  font-weight: bold;
+  font-size: 18px;
+}
